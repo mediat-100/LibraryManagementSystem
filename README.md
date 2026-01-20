@@ -86,7 +86,7 @@ This API uses JWT Bearer tokens for authentication.
 ### Using Swagger UI
 
 1. Click the **Authorize** button (🔒) at the top of Swagger UI
-2. Enter: `Bearer <your-access-token>`
+2. Enter: `<your-access-token>`
 3. Click **Authorize** to apply to all requests
 
 ## 🧪 Testing
